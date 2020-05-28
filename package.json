@@ -1,0 +1,21 @@
+{
+  "name": "responsive-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^7.0.31",
+    "postcss-cli": "^7.1.1",
+    "postcss-color-rgba-fallback": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-postcss": "^8.0.0",
+    "postcss-focus": "^4.0.0"
+  }
+}
